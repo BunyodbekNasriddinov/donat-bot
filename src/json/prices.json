@@ -1,0 +1,22 @@
+{
+  "currency": "UZS",
+  "lastUpdated": "2025-10-08T09:00:00+05:00",
+  "pubg": {
+    "UC": [
+      { "amount": 60, "price": 12000 },
+      { "amount": 60, "price": 24000 },
+      { "amount": 120, "price": 24000 },
+      { "amount": 240, "price": 48000 },
+      { "amount": 325, "price": 52000 }
+    ]
+  },
+  "mlbb": {
+    "diamond": [
+      { "amount": 60, "price": 12000 },
+      { "amount": 120, "price": 24000 },
+      { "amount": 240, "price": 48000 },
+      { "amount": 325, "price": 52000 }
+    ]
+  }
+}
+  

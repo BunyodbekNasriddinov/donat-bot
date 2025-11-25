@@ -1,0 +1,10 @@
+export const pubg = "Pubg ✅";
+export const mlbb = "Mobile Legends ✅";
+export const profile = "💳 Hisobim";
+export const cancel = "🔙 Orqaga";
+export const confirm = "✅ Tasdiqlash";
+export const discard = "❌ Bekor qilish";
+export const admin_confirm = "✅ Chekni tasdiqlash";
+export const admin_discard = "❌ Buyurtmani bekor qilish";
+export const admin_payment_confirm = "✅ To'lov qilindi";
+export const withdraw = "💰 Chiqarib olish";
